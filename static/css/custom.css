@@ -1,0 +1,113 @@
+#number-projects-nd {
+   font-size: 58px;
+}
+
+#total-donations-nd {
+   font-size: 58px;
+}
+
+#average-donations-nd {
+   font-size: 58px
+}
+
+#students-reached-nd {
+   font-size: 58px
+}
+
+.dc-chart g.row text {
+   fill: black;
+   font-size: 12px;
+}
+
+#total-projects {
+   background: #33CC99;
+   width: 200px;
+   position: relative;
+   height: 60px;
+   font-size: 29px;
+   color: white;
+   vertical-align: middle;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 0px;
+}
+
+#net-donations {
+   background: #33CC99;
+   width: 200px;
+   position: relative;
+   height: 60px;
+   font-size: 29px;
+   color: white;
+   vertical-align: middle;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 0px;
+}
+
+
+.dc-select-menu {
+   background: #33CC99;
+   width: 80%;
+   border: none;
+   position: relative;
+   height: 31px;
+   font-size: 15px;
+   color: white;
+   vertical-align: middle;
+   text-align: center;
+   padding-top: 4px;
+   padding-bottom: 0px;
+
+}
+
+#outer {
+   width:1220px;
+}
+
+.intro-button {
+   display:inline-block;
+   margin-top:10px;
+}
+
+.right-buttons {
+   display:inline-block;
+   margin-top:10px;
+   margin-right:10px;
+}
+
+.green-back{
+    background: #33CC99;
+   position: relative;
+   font-size: 29px;
+   color: white;
+   vertical-align: middle;
+   text-align: center;
+   padding-top: 12px;
+   padding-bottom: 0px;
+}
+
+/* Mobile screen styling */
+@media screen and (max-width: 480px), screen and (max-device-width: 480px){
+   #outer{
+      padding-top:50px
+   }
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px), screen and (min-device-width: 481px) and (max-device-width: 768px) {
+
+
+
+
+
+
+
+}
+
+/* Mobile screen styling */
+@media screen and (max-width: 768px){
+
+
+
+}

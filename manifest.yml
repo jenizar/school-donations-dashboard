@@ -1,0 +1,7 @@
+---
+applications:
+- name: school-donations
+  memory: 1024MB
+  random-route: true
+  services:
+    - mongodb-visual
